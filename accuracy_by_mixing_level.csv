@@ -1,0 +1,13 @@
+model,mixing_level,accuracy,n
+Fine-tuned XLM-R (ours),low,0.5375,80
+Fine-tuned XLM-R (ours),medium,0.6753812636165577,459
+Fine-tuned XLM-R (ours),high,0.7156308851224106,531
+XLM-R Twitter Sentiment (general),low,0.45,80
+XLM-R Twitter Sentiment (general),medium,0.4923747276688453,459
+XLM-R Twitter Sentiment (general),high,0.5988700564971752,531
+mBERT Multilingual (general),low,0.45,80
+mBERT Multilingual (general),medium,0.420479302832244,459
+mBERT Multilingual (general),high,0.5348399246704332,531
+mBERT Nepali Sentiment (Nepal-aware),low,0.3875,80
+mBERT Nepali Sentiment (Nepal-aware),medium,0.41830065359477125,459
+mBERT Nepali Sentiment (Nepal-aware),high,0.512241054613936,531
